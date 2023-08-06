@@ -46,3 +46,9 @@
   color: #999;
   text-align: justify;
 }
+
+
+.loading {
+  font-size: 30px;
+  text-align: center;
+}
